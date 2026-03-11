@@ -6,3 +6,4 @@ pykrx
 joblib
 matplotlib
 setuptools
+wheel
